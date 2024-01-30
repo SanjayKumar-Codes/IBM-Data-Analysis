@@ -79,4 +79,4 @@ If you'd like to contribute to this project, please follow these steps:
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as needed.
 
-Happy analyzing! 🚀
+Happy analyzing! 🚀.
